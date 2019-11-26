@@ -1,0 +1,36 @@
+body{
+    overflow-x: hidden;
+}
+.content{
+    margin-bottom: 100px;
+}
+.nav-tabs{
+    width: 100%;
+}
+.nav-item{
+    margin: auto;
+}
+.daftar{
+    padding: 5px;
+    overflow: hidden;
+    margin: 0px;
+    border: 1px solid skyblue;
+    height: 90px;
+    margin: 10px 0px;
+}
+.tumb-1{
+    margin: 0px 5px;
+    padding: 0px;
+    max-width: 80px;
+    height: 100%;
+    display: inline-block;
+}
+.img-1{
+    float: left;
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+.masuk{
+    padding: 15px 5px;
+}
